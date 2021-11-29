@@ -1,4 +1,4 @@
-# budget
+# flutter redux app
 
 A new Flutter project.
 
